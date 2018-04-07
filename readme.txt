@@ -5,4 +5,3 @@ hello_world:git
 hello_world:git
 hello_world:git
 hello_world:git
-hello_world:git
